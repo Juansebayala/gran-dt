@@ -1,0 +1,14 @@
+{
+  "name": "gran-dt",
+  "version": "1.0.0",
+  "description": "Tarea de la clase 15 de r/Argentina-Programa",
+  "main": "index.html",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Sebastian Ayala",
+  "license": "ISC"
+}
